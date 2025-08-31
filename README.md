@@ -3,8 +3,11 @@ useful and simple C program to paste image from clipboard into a file.
 
 # how to use
 simply run c-image-paste.exe on cmd and it will paste your image to the %temp% folder.  
-the program will output the exact directory of the pasted image. for example, if you have copied an image and you run the program on cmd, the program will output ```C:\Users\<username>\AppData\Local\Temp\cbBA87.png```  
+the program will output the exact directory of the pasted image.  
+for example, if you have copied an image and you run the program on cmd, the program will output ```C:\Users\<username>\AppData\Local\Temp\cbBA87.png```  
 **note that the filename is randomized.**
+
+if you don't want to compile the C file, you can download the program compiled [here](https://github.com/eightynine77/C-image-paste/releases/tag/V1.0.0)
 
 ### note
 if you prefer to see your image manually then you can open your image in windows' temp folder.  
