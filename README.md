@@ -15,3 +15,6 @@ the folder is located on: ```%userprofile%\AppData\Local\Temp```
 or you can simply enter ```%temp%``` on file explorer address bar to open the folder.
 <img width="752" height="223" alt="image" src="https://github.com/user-attachments/assets/36058deb-83d7-4891-ac76-b8a894cecdb6" />  
 _sort the folder by "date created" (or "date modified" if the option doesn't exist) and you will see your pasted image_
+
+# _warning_
+it is HIGHLY RECOMMENDED to use microsoft's C/C++ compiler as it is not guaranteed to work with GCC or any other C compiler
